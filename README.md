@@ -202,10 +202,9 @@ Agents that can operate across multiple device types:
 
 ### Related Awesome Lists
 
-- [Awesome Smaller AI Models](https://github.com/supernalai/awesome-smaller-ai-models) - A curated list of smaller, more efficient AI models
-- [Awesome AI Agent Leaderboards](https://github.com/supernalai/awesome-ai-agent-leaderboards) - Comprehensive list of benchmarks and leaderboards for AI agents
-- [Awesome Computer Use](https://github.com/ranpox/awesome-computer-use) - Collection of resources for computer-use GUI agents
-- [Awesome GUI Agent](https://github.com/showlab/Awesome-GUI-Agent) - Curated list of papers and resources for multi-modal GUI agents
+- [Awesome AI Agent Leaderboards](https://github.com/supernalintelligence/Awesome-General-Agents-Leaderboard) - Comprehensive list of leaderboards for AI agents
+- [Awesome AI Agent Benchmarks](https://github.com/supernalintelligence/Awesome-General-Agents-Benchmark-) - Comprehensive list of benchmarks for AI agents
+
 
 ### Contribution
 
