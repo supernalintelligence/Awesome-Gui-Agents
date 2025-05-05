@@ -213,4 +213,4 @@ Contributions welcome! Please read the [contribution guidelines](contributing.md
 
 ## License
 
-This awesome list is maintained by [Parni](https://x.com/ParnianBrk) and [Ian](https://x.com/ian_derrington), and is released under the [CC0 License](LICENSE).
+This awesome list is maintained by [Parni](https://x.com/ParnianBrk) and [Ian](https://x.com/ian_derrington), and is released under the MIT Open Source License.
