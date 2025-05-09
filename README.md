@@ -1,5 +1,24 @@
 # Awesome GUI Compute Agents
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/supernalai/awesome-ai-agent-benchmarks/main/assets/logo.png" alt="Supernal Intelligence Logo" width="300"/>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/supernalai/awesome-ai-agent-benchmarks"><img src="https://img.shields.io/github/stars/supernalai/awesome-ai-agent-benchmarks?style=social" alt="Stars"></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/supernalasi"><img src="https://img.shields.io/badge/follow-%40supernalasi-1DA1F2?logo=x&style=social" alt="Follow on X"></a>
+  <a href="https://bsky.app/profile/supernalasi.bsky.social"><img src="https://img.shields.io/badge/Bluesky-supernalasi.bsky.social-3A88FE?style=flat&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="https://www.threads.com/supernalasi"><img src="https://img.shields.io/badge/Threads-supernalasi-000000?style=flat&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://discord.gg/J9pU82wP"><img src="https://img.shields.io/discord/1234567890?style=flat&label=Discord&logo=discord&logoColor=white&color=5865F2" alt="Discord"></a>
+  <a href="https://supernalintelligence.com"><img src="https://img.shields.io/badge/Website-supernalintelligence.com-blue?style=flat&logo=safari&logoColor=white" alt="Website"></a>
+</p>
+
 A curated list of GUI (Graphical User Interface) compute agents - AI systems that can see, understand, and interact with graphical interfaces like humans do.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
