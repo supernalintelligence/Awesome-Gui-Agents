@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="https://github.com/supernalai/awesome-ai-agent-benchmarks"><img src="https://img.shields.io/github/stars/supernalai/awesome-ai-agent-benchmarks?style=social" alt="Stars"></a>
+  <a href="https://github.com/orgs/supernalintelligence/repositories"><img src="https://img.shields.io/github/stars/supernalai/awesome-ai-agent-benchmarks?style=social" alt="Stars"></a>
 </p>
 
 <p align="center">
