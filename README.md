@@ -19,7 +19,6 @@
 
 A curated list of GUI (Graphical User Interface) compute agents - AI systems that can see, understand, and interact with graphical interfaces like humans do.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This project is maintained by [Parni](https://x.com/ParnianBrk) and [Ian](https://x.com/ian_derrington). Follow [Supernal Intelligence](https://x.com/supernalasi) for more updates.
 
