@@ -27,7 +27,7 @@ This project is maintained by [Parni](https://x.com/ParnianBrk) and [Ian](https:
 
 For more complete data and the latest information, please visit our website: [supernalintelligence.com](https://www.supernalintelligence.com/)
 
-If you see an error or want to contribute, please email [i@supernal.ai](mailto:i@supernal.ai)
+
 
 ## What are GUI Compute Agents?
 
