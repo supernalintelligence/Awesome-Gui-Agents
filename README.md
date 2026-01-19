@@ -98,6 +98,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | Yohei Nakajima | MIT | Autonomous task creation and prioritization | Browser |
 | [Browser Use](https://browser-use.com/) | Y Combinator/ETH Zurich | Proprietary | Makes websites more digestible for AI agents | Browser |
 | [c/ua (Computer-Use Agent)](https://github.com/trycua/cua) | TryCua | Open Source | High-performance virtualization; fully isolated virtual environments | Desktop, Virtual Machine |
+| [Openwork](https://github.com/accomplish-ai/openwork) | Accomplish AI | MIT | Open alternative to Anthropic's Cowork; multi-LLM support; browser automation | Browser, Desktop |
 | [CogAgent](https://arxiv.org/abs/2307.13854) | Tsinghua Univ. & Zhipu | Research License (CC BY-NC) | High-performance open model rivaling closed models | Desktop, Browser |
 | [CrewAI](https://github.com/joaomdmoura/crewAI) | CrewAI | Proprietary | Enables orchestration of specialized agents in teams | Browser |
 | [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) | FSoft-AI4Code | Apache 2.0 | Handles GitHub issue resolution, repository-level code generation | Browser, Desktop |
