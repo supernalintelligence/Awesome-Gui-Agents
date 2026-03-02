@@ -86,6 +86,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [Relevance AI](https://relevance.ai/) | Relevance AI | Released | Drag-and-drop skill building, templates, integrations | Browser |
 | [ServiceNow AI Agents](https://www.servicenow.com/products/now-platform-ai.html) | ServiceNow | Released | Built-in governance, analytics, text-to-action capabilities | Browser |
 | [Vy](https://vercept.com/) | Vercept | Released (2025) | Advanced human-computer interaction; works with existing applications | Desktop |
+| [Computer Agents](https://computer-agents.com) | Computer Agents | Released | Cloud-native platform giving each AI agent its own isolated persistent cloud computer (file system, code exec, memory); scheduled/async tasks, 24/7 execution, native iOS/Mac apps + API/SDK; optimized for long-running research, coding & creative workflows | Cloud |
 
 ## Open Source Agents
 
