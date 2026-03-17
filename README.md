@@ -100,6 +100,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [c/ua (Computer-Use Agent)](https://github.com/trycua/cua) | TryCua | Open Source | High-performance virtualization; fully isolated virtual environments | Desktop, Virtual Machine |
 | [CogAgent](https://arxiv.org/abs/2307.13854) | Tsinghua Univ. & Zhipu | Research License (CC BY-NC) | High-performance open model rivaling closed models | Desktop, Browser |
 | [CrewAI](https://github.com/joaomdmoura/crewAI) | CrewAI | Proprietary | Enables orchestration of specialized agents in teams | Browser |
+| [Fazm](https://github.com/m13v/fazm) | Fazm | MIT | Voice-controlled macOS AI agent using accessibility APIs and ScreenCaptureKit | Desktop |
 | [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) | FSoft-AI4Code | Apache 2.0 | Handles GitHub issue resolution, repository-level code generation | Browser, Desktop |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | LangChain | MIT | Framework for building stateful, multi-agent systems | Browser |
 | [LLM Agents](https://github.com/NVlabs/llm-agents) | NVIDIA/Meta | Research License | Standardized evaluation for LLM agents | Browser |
@@ -159,6 +160,7 @@ Desktop agents interact with operating system GUIs and desktop applications:
 |------|-----------|--------|------------------|
 | [Ace](https://generalagents.com/ace/) | General Agents | Upcoming | Commercial, Research |
 | [Claude Computer Use](https://www.anthropic.com/news/claude-computer-use) | Anthropic | Released | Commercial |
+| [Fazm](https://github.com/m13v/fazm) | Fazm | Released | Open Source |
 | [Felluo AI](https://felluo.ai) | Felluo | Released | Commercial |
 | [Fuyu-Heavy](https://www.adept.ai/blog/adept-fuyu-heavy) | Adept AI | Released | Commercial, Research |
 | [Highlight AI](https://highlight.run/) | Embedded Intelligence | Released | Commercial |
