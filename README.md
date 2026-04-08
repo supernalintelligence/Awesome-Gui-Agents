@@ -68,6 +68,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [Beam AI](https://www.beam.cloud/) | Beam | Released | Agentic Process Automation platform for customer support, onboarding, sales proposal generation | Browser |
 | [Claude Agent Kit](https://www.anthropic.com/solutions/agents) | Anthropic | Upcoming (2024) | Official toolkit for building Claude-powered agents | Browser |
 | [Claude Computer Use](https://www.anthropic.com/news/claude-computer-use) | Anthropic | Released (2024) | Works on desktop apps and browsers; AI model-based approach | Browser, Desktop, Multi-device |
+| [Dassi](https://dassi.ai) | Dassi AI | Released | Chrome extension GUI agent; clicks, fills forms, navigates pages; BYOK with Claude, GPT, Gemini | Browser |
 | [Devin](https://cognition.dev) | Cognition Labs | Upcoming (2025) | Full-stack programming capabilities with browser access | Desktop, Browser |
 | [Fuyu-Heavy](https://www.adept.ai/blog/adept-fuyu-heavy) | Adept AI | Released (2024) | Ranked 3rd best vision-action model behind GPT-4V and Gemini Ultra | Desktop, Browser |
 | [Gemini 1.5 Pro (Tool Use)](https://ai.google.dev/gemini-api) | Google | Released | Long context, tool orchestration in Workspace | Browser |
@@ -142,6 +143,7 @@ Browser-based agents specialize in navigating and interacting with web interface
 | [Perplexity Comet](https://www.perplexity.ai/comet) | Perplexity AI | Upcoming | Commercial |
 | [Browser Use](https://browser-use.com/) | Y Combinator/ETH Zurich | Released | Commercial, Open-source |
 | [CloudCruise](https://www.cloudcruise.com/) | CloudCruise | Released | Commercial |
+| [Dassi](https://dassi.ai) | Dassi AI | Released | Commercial |
 | [Deep Research Agent](https://arxiv.org/abs/2307.13854) | OpenAI | Unreleased | Commercial, Research |
 | [Felluo AI](https://felluo.ai) | Felluo | Released | Commercial |
 | [Google Mariner](https://deepmind.google/discover/blog/introducing-mariner-ai/) | Google DeepMind | Unreleased | Commercial, Research |
