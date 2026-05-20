@@ -119,6 +119,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | Name | Institution | Focus Area | Release Date |
 |------|------------|------------|-------------|
 | [Deep Research Agent](https://arxiv.org/abs/2307.13854) | OpenAI | Web browsing, research | 2024 |
+| [ClawBench](https://github.com/reacher-z/ClawBench) | UBC (NAIL Group) | Live-website browser agents; HTTP-interception + LLM-judge scoring | 2026 |
 | [Gato](https://deepmind.google/discover/blog/a-generalist-agent/) | Google DeepMind | Multi-modal, multi-task, multi-embodiment | 2022 |
 | [HuggingGPT (Jarvis)](https://arxiv.org/abs/2303.17580) | Microsoft | Orchestrates specialists for multi-modal tasks | 2023 |
 | [I-AFM](https://www.microsoft.com/en-us/research/publication/interactive-agent-foundation-model/) | Microsoft Research | Multi-modal, multi-task system | 2024 |
