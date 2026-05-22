@@ -75,6 +75,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [Gumloop](https://www.gumloop.com/) | Gumloop | Released (2023) | Visual workflow canvas; 90+ pre-built templates; Chrome extension for web automation | Browser |
 | [Highlight AI](https://highlight.run/) | Embedded Intelligence | Released (2024) | Instant Q&A and automation on desktop; strong privacy focus | Desktop, Browser |
 | [Hyperbrowser](https://www.hyperbrowser.ai/) | Hyperbrowser.ai (YC Backed) | Released (2024) | Sub-second browser launch, 10,000+ concurrent browsers, CAPTCHA solving | Browser |
+| [Komos](https://www.komos.ai/) | Komos | Released | Turns demonstrated browser workflows into scheduled automations with credentials, logs, API triggers, and human review | Browser |
 | [Lindy](https://lindy.ai) | Lindy.ai | Released | Virtual AI assistant for daily business tasks | Browser |
 | [Manus](https://monica.im/) | Monica AI (China) | Released (2024) | World's first general AI agent; SOTA on GAIA benchmark | Desktop, Browser, Phone |
 | [MultiOn (now Please AI)](https://please.com/) | Please AI | Released (2023) | Multi-step web tasks end-to-end; preference learning | Browser |
@@ -146,6 +147,7 @@ Browser-based agents specialize in navigating and interacting with web interface
 | [Felluo AI](https://felluo.ai) | Felluo | Released | Commercial |
 | [Google Mariner](https://deepmind.google/discover/blog/introducing-mariner-ai/) | Google DeepMind | Unreleased | Commercial, Research |
 | [Gumloop](https://www.gumloop.com/) | Gumloop | Released | Commercial |
+| [Komos](https://www.komos.ai/) | Komos | Released | Commercial |
 | [MultiOn (now Please AI)](https://please.com/) | Please AI | Released | Commercial |
 | [Proxy](https://www.proxyagent.ai/) | Convergence AI | Released | Commercial |
 | [Suna](https://github.com/kortix-ai/suna) | Kortix | Released | Open-source |
