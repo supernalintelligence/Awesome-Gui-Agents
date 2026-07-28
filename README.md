@@ -129,6 +129,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [SayCan](https://arxiv.org/abs/2204.01691) | Google | Grounded language model for robotics | 2022 |
 | [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | Google DeepMind | 3D virtual environments | 2024 |
 | [WebAgent](https://arxiv.org/abs/2307.13854) | Google DeepMind | Autonomous web browsing and form-filling | 2024 |
+| [ClawBench](https://arxiv.org/abs/2604.08523) | Reacher-Z | Live-web browser-agent benchmark with isolated execution and replayable traces | 2026 |
 
 ## By Environment
 
