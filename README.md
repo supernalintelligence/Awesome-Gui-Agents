@@ -167,6 +167,7 @@ Desktop agents interact with operating system GUIs and desktop applications:
 | [CogAgent](https://arxiv.org/abs/2307.13854) | Tsinghua Univ. & Zhipu | Released | Research, Open-source |
 | [Vy](https://vercept.com/) | Vercept | Released | Commercial |
 | [c/ua (Computer-Use Agent)](https://github.com/trycua/cua) | TryCua | Released | Open Source |
+| [AICraft](https://github.com/Easlie114514/AICraft) | AICraft | Released | Open Source | Desktop AI capability launcher with modular Skill/MCP/memory management, one-click DeepSeek setup, and visual role system. Portable exe for Windows. | 桌面AI能力启动器，模块化Skill/MCP/记忆管理，一键DeepSeek配置 |
 
 ### Physical World Agents
 
