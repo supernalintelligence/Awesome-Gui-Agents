@@ -153,6 +153,8 @@ Browser-based agents specialize in navigating and interacting with web interface
 
 ### Desktop Agents
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 Desktop agents interact with operating system GUIs and desktop applications:
 
 | Name | Developer | Status | Development Type |
