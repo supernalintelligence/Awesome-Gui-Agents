@@ -61,6 +61,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [CloudCruise](https://www.cloudcruise.com/) | CloudCruise | Released | Cloud-based GUI automation; enterprise-grade | Cloud, Browser |
 | [Felluo AI](https://felluo.ai) | Felluo | Released | Vision-based GUI automation; supports both browser and desktop interactions | Desktop, Browser |
 | [Adaptive.AI](https://adaptive.ai/) | Adaptive AI Inc | Released | AI risk management framework; technology strategy consulting | Browser |
+| [Agent QA](https://github.com/vostride/agent-qa) | Vostride | Released | Authors and runs natural-language regression tests with deterministic checks and reviewable run evidence | Browser, Phone |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | Reworkd | Released (2023) | User-friendly interface for creating goal-oriented agents | Browser |
 | [AI Agent Studio](https://www.automationanywhere.com/products/process-discovery) | Automation Anywhere | Released (2025) | Handles structured and unstructured data; creates AI agents for enterprise automation | Browser |
 | [Apple Intelligence Agents](https://www.apple.com/apple-intelligence/) | Apple | Upcoming (2025) | Deep OS integration; privacy-focused | Phone, Desktop |
