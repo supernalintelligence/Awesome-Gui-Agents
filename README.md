@@ -109,6 +109,7 @@ GUI compute agents are AI systems designed to interact with graphical user inter
 | [RooCode](https://github.com/RooCode/RooCode) | Open-source | Proprietary | Autonomous coding in VS Code | Browser, Desktop |
 | [Simular AI](https://github.com/simular-ai/Agent-S) | Simular | Research License | SOTA on OSWorld and AndroidWorld benchmarks | Desktop, Browser, Phone |
 | [Suna](https://github.com/kortix-ai/suna) | Kortix | Proprietary | Highly versatile generalist agent; handles complex tasks | Browser |
+| [Tabgent](https://github.com/FibonaAI/tabgent) | FibonaAI | MIT | Chrome sidebar with per-tab Codex conversations, page reading, and browser actions; macOS early preview | Browser |
 | [UI-TARS](https://arxiv.org/abs/2407.13063) | ByteDance/TikTok | Research License | Autonomous GUI execution on PC/Mac/Android | Browser, Desktop, Phone |
 | [Vercel AI SDK Computer Use](https://vercel.com/templates/next.js/ai-sdk-computer-use) | Vercel | Open Source | Standardized API for different AI models; streaming capabilities | Browser, Web |
 | [WebVoyager](https://arxiv.org/abs/2401.13919) | Hongliang He et al. | Research License | 59.1% success on 15-website benchmark | Browser |
